@@ -16,7 +16,11 @@
 /* Tablet Layout: 768px.*/
 @media only screen and (min-width: 768px) and (max-width: 991px) {
 
-    /* Banner Responsive */
+    /* About Responsive */
+
+    .about-one-content {
+    margin-top: 29px;
+}
 
 }
 
@@ -40,6 +44,15 @@
     
     .banner-style-one-item h1 {
     font-size: 45px;
+    font-weight: 700;
+}
+
+.about-one-content .btn-theme {
+    margin-bottom: 10px;
+}
+
+.about-one-content h3 {
+    font-size: 40px;
     font-weight: 700;
 }
 
