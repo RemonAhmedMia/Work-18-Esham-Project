@@ -28,6 +28,12 @@
     margin-top: 34px;
 }
 
+/* Blog Responsive */
+
+.blog-style-one-item {
+    margin-top: 30px;
+}
+
 }
 
 /* MObile Layout: 576px.*/
@@ -50,6 +56,12 @@
 /* Portfolio Responsive */
 .portfolio-buttons button {
     margin-bottom: 20px;
+}
+
+/* Blog Responsive */
+
+.blog-style-one-item {
+    margin-top: 30px;
 }
 
 }
@@ -92,6 +104,12 @@
 /* Portfolio Responsive */
 .portfolio-buttons button {
     margin-bottom: 20px;
+}
+
+/* Blog Responsive */
+
+.blog-style-one-item {
+    margin-top: 30px;
 }
 
 }
