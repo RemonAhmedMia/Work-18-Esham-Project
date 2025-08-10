@@ -22,6 +22,12 @@
     margin-top: 29px;
 }
 
+/* Funfact Rsponsive */
+
+.funfact-style-one-item {
+    margin-top: 34px;
+}
+
 }
 
 /* MObile Layout: 576px.*/
@@ -33,6 +39,12 @@
     .banner-style-one-item h1 {
     font-size: 50px;
     font-weight: 700;
+}
+
+/* Funfact Rsponsive */
+
+.funfact-style-one-item {
+    margin-top: 34px;
 }
 
 }
@@ -60,6 +72,16 @@
 
 .service-one-item {
     text-align: center;
+}
+
+/* Funfact Rsponsive */
+
+.funfact-style-one-item {
+    margin-top: 34px;
+}
+
+.funfact-style-one-item .funfact h2 {
+    font-size: 44px;
 }
 
 }
