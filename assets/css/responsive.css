@@ -34,6 +34,10 @@
     margin-top: 30px;
 }
 
+.contact-info-one-area {
+    margin-bottom: 30px;
+}
+
 }
 
 /* MObile Layout: 576px.*/
@@ -62,6 +66,10 @@
 
 .blog-style-one-item {
     margin-top: 30px;
+}
+
+.contact-info-one-area {
+    margin-bottom: 30px;
 }
 
 }
@@ -110,6 +118,10 @@
 
 .blog-style-one-item {
     margin-top: 30px;
+}
+
+.contact-info-one-area {
+    margin-bottom: 30px;
 }
 
 }
