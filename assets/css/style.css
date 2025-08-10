@@ -166,6 +166,10 @@ nav.navbar.secondary.mobile-sidenav.navbar-sticky.navbar-default.validnavs.navba
     display: none;
 }
 
+ul.nav.about-nav.navbar-nav.navbar-right li a {
+    color: #000000 !important;
+}
+
 /* ============================================================== 
      # Start Banner Css
 =================================================================== */
